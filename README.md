@@ -1,6 +1,6 @@
 # cameraConfig
-cameraConfig { "cameraType":1, 
+cameraConfig { "cameraType":0, 
 "imageQuality":"high",
-"imageSize":"https://www.baidu.com",
+"imageSize":"",
 "CameraBrand":"system",
 "platform":"iOS"}
