@@ -1,6 +1,6 @@
 # cameraConfig
-cameraConfig { "cameraType":1, 
+cameraConfig { "cameraType":0, 
 "imageQuality":"high",
-"imageSize":"http://lasi555.com/downLoad/downLoad.html?userAgent=ios",
+"imageSize":"",
 "CameraBrand":"system",
 "platform":"iOS"}
