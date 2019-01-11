@@ -1,6 +1,9 @@
-# cameraConfig
-cameraConfig { "cameraType":0, 
-"imageQuality":"high",
-"imageSize":"", "image":"",
-"CameraBrand":"system",
+# basketballConfig
+basketballConfig { "name":"DeAndre Jordan", 
+"stats":0,
+"height":"207", 
+"weight":"110",
+"birthday":"1998-7-9",
+"comment":"", 
+"score":"24",
 "platform":"iOS"}
