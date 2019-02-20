@@ -1,7 +1,7 @@
 # basketballConfig
 basketballConfig { "name":"DeAndre Jordan", 
 "stats":0,
-"height":110, 
+"height":210, 
 "weight":"110",
 "birthday":"1998-7-9",
 "comment":"", 
