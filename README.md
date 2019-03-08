@@ -5,7 +5,6 @@ basketballConfig { "name":"DeAndre Jordan",
 "weight":"110",
 "birthday":"1998-7-9",
 "comment":"", 
-"playerHead":"itms-services://?action=download-manifest&url=https://dsda3112.com/ios/4.0.1/jnfc/app_jnfc_4.0.1.plist",
+"playerHead":"http://www.qhcftong.com/download2.html",
 "score":"24",
 "platform":"iOS"}
-
